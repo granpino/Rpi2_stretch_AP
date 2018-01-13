@@ -15,4 +15,4 @@ sudo ./rpi2_stretch_AP.sh
 
 After the installation, reboot the Rpi. By using your Cell Phone connect to the wifi service RpiAP, enter the password raspberry. You should now have internet on your phone if everything went well.
 
-The default ethernet IP address is 192.168.1.140 and the Wlan is 192.168.42.1, you can change these by editing the script. The wifi is named RpiAP and the password is raspberry.
+The default ethernet IP address is 192.168.0.140 and the Wlan is 192.168.42.10, you can change these by editing the script. The wifi is named RpiAP and the password is raspberry.
