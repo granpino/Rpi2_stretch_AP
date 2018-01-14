@@ -11,6 +11,8 @@ sudo git clone https://github.com/granpino/Rpi2_stretch_AP.git
 
 cd Rpi2_stretch_AP
 
+sudo chmod 755 Rpi2_stretch_AP.sh
+
 sudo ./rpi2_stretch_AP.sh
 
 After the installation, reboot the Rpi. By using your Cell Phone connect to the wifi service RpiAP, enter the password raspberry. You should now have internet on your phone if everything went well.
