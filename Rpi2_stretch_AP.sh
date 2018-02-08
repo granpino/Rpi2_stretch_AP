@@ -2,8 +2,8 @@
 #
 # Raspberry Pi2 "Jessie lite and stretch" Access Point using dnsmasq and hostapd
 # 
-# To run the file : sudo chmod 755 Rpi2_dnsmasq_AP.sh
-# Then: sudo ./Rpi2_dnsmasq_AP.sh
+# To run the file : sudo chmod 755 Rpi2_stretch_AP.sh
+# Then: sudo ./Rpi2_stretch_AP.sh
 #by: 
 #
 
